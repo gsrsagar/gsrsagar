@@ -1,6 +1,6 @@
 ### Hey Viewer 👋
 
-## This is Sagar Guvvala from Nellore, AndhraPradesh, India
+## This is Sagar!
 
 - 🔭 I’m currently working on Java Full Stack
 - 🌱 I’m currently learning DataStructures and Algorithms , BigData
