@@ -3,9 +3,8 @@
 ## This is Sagar!
 
 - 🔭 I’m currently working on Java Full Stack
-- 🌱 I’m currently learning DataStructures and Algorithms , BigData
+- 🌱 I’m currently practicing DataStructures and Algorithms ,and learning BigData
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with DataStructures and Algorithms
 - 💬 Ask me about anything which I know
 - 📫 How to reach me: sagarreddyguvvala@gmail.com
 - 😄 Pronouns: gsr
