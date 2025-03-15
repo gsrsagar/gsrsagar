@@ -3,7 +3,7 @@
 ## This is Sagar Guvvala !
 
 - 🔭 I’m currently working on Full Stack Application Development
-- 🌱 I’m currently teaching DataStructures and Algorithms ,and learning BigData
+- 🌱 I’m currently teaching DataStructures and Algorithms , App Development and AI
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything which I know
 - 📫 How to reach me: sagarreddyguvvala@gmail.com
